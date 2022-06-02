@@ -1,0 +1,5 @@
+print("¿Cómo te llamas?")
+name = input()
+print("¿Cómo te apellidas?")
+last_name = input()
+print("Mucho gusto " + name + " " + last_name)
